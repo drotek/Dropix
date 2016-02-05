@@ -10,7 +10,6 @@ More information for this repo can be found on the [Drotek.com product page](htt
 
 Repository Contents
 -------------------
-* **/Software** - 
 * **/Hardware** - PDF design files
 
 License Information
